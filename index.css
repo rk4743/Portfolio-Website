@@ -142,6 +142,13 @@ header{
   font-size: 1.2rem;
   
 }
+.about-text {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.6;
+  font-family: Arial, sans-serif;
+}
 
 
 /* PROJECT SECTION STYLING */
